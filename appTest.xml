@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="credit">
+	<test name="bankpackage">
+		<classes>
+
+			<class name= "Bank.AppTest" />
+
+		</classes>
+	</test>
+</suite>
